@@ -7,6 +7,8 @@ This is my second attempt at test repository
 ![dog2 picture](https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif)
 
 
+I am testing how the github workflow works. 
+
 ## Course Outline
 
 1. Intro to Python & Data Analytics
