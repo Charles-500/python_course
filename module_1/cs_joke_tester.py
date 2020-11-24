@@ -18,7 +18,7 @@ time.sleep(2) # sleeping for x seconds
 print("I've lost my watch")
 time.sleep(2) # sleeping for x seconds
 print("Can you tell me if it's morning, afternoon or night?") 
-answer0 = input("Please type your answer here: ")
+answer0 = input("Let me know here: ")
 if answer0.lower() == "morning":
     print("Well good morning to you")
 elif answer0.lower() == "afternoon":
@@ -28,7 +28,7 @@ elif answer0.lower() == "night":
 
 time.sleep(2) 
     
-print(f"ok {name}, I have two jokes to test your skills")    
+print(f"right {name}, I have two jokes to test your skills")    
 time.sleep(2)    
     
 print("lets get started with joke 1")    
@@ -80,5 +80,5 @@ elif wins == 0:
     print(f"Oh no {name}, you scored a duck egg!! Thanks for playing")
 
 time.sleep(2)
-print(f"Well that's game over {name}, see you next time")
+print(f"So that's game over {name}, see you next time")
 
